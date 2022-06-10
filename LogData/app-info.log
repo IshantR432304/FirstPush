@@ -1,0 +1,10 @@
+17:22:16.770 [main] ERROR Log4j.Demo.Demo - This is Error msg
+17:22:16.786 [main] FATAL Log4j.Demo.Demo - This is fatal msg
+17:22:16.786 [main] INFO  Log4j.Demo.Demo - This is info msg
+17:22:16.786 [main] DEBUG Log4j.Demo.Demo - This is debug msg
+17:22:16.786 [main] TRACE Log4j.Demo.Demo - This is trace msg
+17:22:16.786 [main] ERROR Log4j.Demo.Demo - This is Error msg
+17:22:16.787 [main] FATAL Log4j.Demo.Demo - This is fatal msg
+17:22:16.787 [main] INFO  Log4j.Demo.Demo - This is info msg
+17:22:16.787 [main] DEBUG Log4j.Demo.Demo - This is debug msg
+17:22:16.787 [main] TRACE Log4j.Demo.Demo - This is trace msg

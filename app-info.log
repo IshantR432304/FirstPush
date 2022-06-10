@@ -1,0 +1,5 @@
+12:34:11.422 [main] ERROR Log4j.Demo.Demo - This is Error msg
+12:34:11.425 [main] FATAL Log4j.Demo.Demo - This is fatal msg
+12:34:11.426 [main] INFO  Log4j.Demo.Demo - This is info msg
+12:34:11.426 [main] DEBUG Log4j.Demo.Demo - This is debug msg
+12:34:11.426 [main] TRACE Log4j.Demo.Demo - This is trace msg
